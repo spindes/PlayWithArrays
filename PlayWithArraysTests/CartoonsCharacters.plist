@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <string>Чиполлино</string>
+        <string>Буратино</string>
+        <string>Пьеро</string>
+        <string>Колобок</string>
+        <string>Чиполлино</string>
+        <string>Пьеро</string>
+        <string>Чиполлино</string>
+        <string>Карлсон</string>
+        <string>Пьеро</string>
+        <string>Колобок</string>
+        <string>Незнайка</string>
+        <string>Чиполлино</string>
+        <string>Нильс</string>
+        <string>Карлсон</string>
+        <string>Незнайка</string>
+        <string>Винни-Пух</string>
+        <string>Карлсон</string>
+        <string>Карабас-Барабас</string>
+        <string>Незнайка</string>
+        <string>Карсон</string>
+        <string>Дюймовочка</string>
+        <string>Незнайка</string>
+        <string>Винни-Пух</string>
+    </array>
+</plist>
+
